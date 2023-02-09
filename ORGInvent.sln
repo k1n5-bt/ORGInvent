@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORGInvent", "ORGInvent\ORGInvent.csproj", "{F246D238-D1B7-4D49-AE7B-BCA9E337FF5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F246D238-D1B7-4D49-AE7B-BCA9E337FF5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F246D238-D1B7-4D49-AE7B-BCA9E337FF5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F246D238-D1B7-4D49-AE7B-BCA9E337FF5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F246D238-D1B7-4D49-AE7B-BCA9E337FF5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {209F9F62-469E-4BEA-80B0-3F16D4AA1F10}
+	EndGlobalSection
+EndGlobal
